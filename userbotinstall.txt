@@ -1,0 +1,6 @@
+asyncio
+telethon
+pyrogram
+wikipedia
+openai
+aiocron
